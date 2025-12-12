@@ -1,0 +1,765 @@
+
+================================================================================
+REPORTE DE ALERTAS - 2025-11-06 12:59:43
+================================================================================
+
+
+ALTA PRIORIDAD (3 alertas):
+--------------------------------------------------------------------------------
+
+1. [SPY] open_interest_analyzer
+   Tipo: OI_PUTS_EXTREMO
+   Descripción: N/A
+   Valor: 2.28
+
+2. [QQQ] open_interest_analyzer
+   Tipo: OI_PUTS_EXTREMO
+   Descripción: N/A
+   Valor: 1.88
+
+3. [GS] volume_analyzer
+   Tipo: VOLUMEN_PUTS_EXTREMO
+   Descripción: N/A
+   Valor: 1.23
+
+MEDIA PRIORIDAD (138 alertas):
+--------------------------------------------------------------------------------
+
+1. [SPY] volume_analyzer
+   Tipo: ALTA_ROTACION
+   Descripción: N/A
+   Valor: 3.71
+
+2. [SPY] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 31.00
+
+3. [SPY] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 4.98
+
+4. [SPY] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+5. [QQQ] volume_analyzer
+   Tipo: ALTA_ROTACION
+   Descripción: N/A
+   Valor: 5.35
+
+6. [QQQ] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 30.00
+
+7. [QQQ] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 2.35
+
+8. [QQQ] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+9. [IWM] volume_analyzer
+   Tipo: ALTA_ROTACION
+   Descripción: N/A
+   Valor: 0.87
+
+10. [IWM] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 16.00
+
+11. [IWM] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 3.37
+
+12. [IWM] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+13. [DIA] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 22.00
+
+14. [DIA] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 4.73
+
+15. [DIA] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+16. [AAPL] volume_analyzer
+   Tipo: ALTA_ROTACION
+   Descripción: N/A
+   Valor: 1.90
+
+17. [AAPL] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 20.00
+
+18. [AAPL] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 2.43
+
+19. [AAPL] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.58) antes de earnings_season
+   Valor: 0.58
+   Umbral: 0.70
+
+20. [AAPL] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.58) antes de fomc_meetings
+   Valor: 0.58
+   Umbral: 0.70
+
+21. [AAPL] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.58) antes de quad_witching
+   Valor: 0.58
+   Umbral: 0.70
+
+22. [AAPL] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+23. [MSFT] volume_analyzer
+   Tipo: ALTA_ROTACION
+   Descripción: N/A
+   Valor: 0.97
+
+24. [MSFT] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 25.00
+
+25. [MSFT] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 2.98
+
+26. [MSFT] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.55) antes de earnings_season
+   Valor: 0.55
+   Umbral: 0.70
+
+27. [MSFT] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.55) antes de fomc_meetings
+   Valor: 0.55
+   Umbral: 0.70
+
+28. [MSFT] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.55) antes de quad_witching
+   Valor: 0.55
+   Umbral: 0.70
+
+29. [MSFT] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+30. [GOOGL] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 20.00
+
+31. [GOOGL] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 1.92
+
+32. [GOOGL] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.42) antes de earnings_season
+   Valor: 0.42
+   Umbral: 0.70
+
+33. [GOOGL] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.42) antes de fomc_meetings
+   Valor: 0.42
+   Umbral: 0.70
+
+34. [GOOGL] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.42) antes de quad_witching
+   Valor: 0.42
+   Umbral: 0.70
+
+35. [GOOGL] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+36. [AMZN] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 18.00
+
+37. [AMZN] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 3.02
+
+38. [AMZN] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.67) antes de earnings_season
+   Valor: 0.67
+   Umbral: 0.70
+
+39. [AMZN] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.67) antes de fomc_meetings
+   Valor: 0.67
+   Umbral: 0.70
+
+40. [AMZN] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.67) antes de quad_witching
+   Valor: 0.67
+   Umbral: 0.70
+
+41. [AMZN] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+42. [NVDA] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 23.00
+
+43. [NVDA] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 3.09
+
+44. [NVDA] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+45. [TSLA] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 45.00
+
+46. [TSLA] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 5.01
+
+47. [TSLA] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+48. [XOM] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 10.00
+
+49. [XOM] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 45.48
+
+50. [XOM] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 6.56
+
+51. [XOM] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.18) antes de earnings_season
+   Valor: 0.18
+   Umbral: 0.70
+
+52. [XOM] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.18) antes de fomc_meetings
+   Valor: 0.18
+   Umbral: 0.70
+
+53. [XOM] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.18) antes de quad_witching
+   Valor: 0.18
+   Umbral: 0.70
+
+54. [XOM] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+55. [CVX] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 7.00
+
+56. [CVX] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 54.19
+
+57. [CVX] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 10.32
+
+58. [CVX] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.57) antes de earnings_season
+   Valor: 0.57
+   Umbral: 0.70
+
+59. [CVX] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.57) antes de fomc_meetings
+   Valor: 0.57
+   Umbral: 0.70
+
+60. [CVX] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.57) antes de quad_witching
+   Valor: 0.57
+   Umbral: 0.70
+
+61. [CVX] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+62. [COP] volume_analyzer
+   Tipo: ALTA_ROTACION
+   Descripción: N/A
+   Valor: 0.80
+
+63. [COP] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 10.00
+
+64. [COP] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 4.52
+
+65. [COP] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+66. [SLB] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 8.00
+
+67. [SLB] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 47.31
+
+68. [SLB] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 2.73
+
+69. [SLB] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.49) antes de earnings_season
+   Valor: 0.49
+   Umbral: 0.70
+
+70. [SLB] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.49) antes de fomc_meetings
+   Valor: 0.49
+   Umbral: 0.70
+
+71. [SLB] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.49) antes de quad_witching
+   Valor: 0.49
+   Umbral: 0.70
+
+72. [SLB] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+73. [EOG] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 7.00
+
+74. [EOG] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 51.89
+
+75. [EOG] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 2.70
+
+76. [EOG] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+77. [MPC] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 9.00
+
+78. [MPC] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 1.58
+
+79. [MPC] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.59) antes de earnings_season
+   Valor: 0.59
+   Umbral: 0.70
+
+80. [MPC] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.59) antes de fomc_meetings
+   Valor: 0.59
+   Umbral: 0.70
+
+81. [MPC] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.59) antes de quad_witching
+   Valor: 0.59
+   Umbral: 0.70
+
+82. [MPC] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+83. [JPM] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 13.00
+
+84. [JPM] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 4.22
+
+85. [JPM] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+86. [BAC] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 12.00
+
+87. [BAC] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 3.81
+
+88. [BAC] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+89. [WFC] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 10.00
+
+90. [WFC] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 4.29
+
+91. [WFC] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.49) antes de earnings_season
+   Valor: 0.49
+   Umbral: 0.70
+
+92. [WFC] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.49) antes de fomc_meetings
+   Valor: 0.49
+   Umbral: 0.70
+
+93. [WFC] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.49) antes de quad_witching
+   Valor: 0.49
+   Umbral: 0.70
+
+94. [WFC] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+95. [GS] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 24.00
+
+96. [GS] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 3.24
+
+97. [GS] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+98. [MS] volume_analyzer
+   Tipo: ALTA_ROTACION
+   Descripción: N/A
+   Valor: 41.09
+
+99. [MS] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 6.00
+
+100. [MS] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 45.32
+
+101. [MS] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 6.41
+
+102. [MS] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.10) antes de earnings_season
+   Valor: 0.10
+   Umbral: 0.70
+
+103. [MS] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.10) antes de fomc_meetings
+   Valor: 0.10
+   Umbral: 0.70
+
+104. [MS] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.10) antes de quad_witching
+   Valor: 0.10
+   Umbral: 0.70
+
+105. [MS] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+106. [JNJ] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 6.00
+
+107. [JNJ] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 48.50
+
+108. [JNJ] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 2.23
+
+109. [JNJ] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.14) antes de earnings_season
+   Valor: 0.14
+   Umbral: 0.70
+
+110. [JNJ] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.14) antes de fomc_meetings
+   Valor: 0.14
+   Umbral: 0.70
+
+111. [JNJ] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.14) antes de quad_witching
+   Valor: 0.14
+   Umbral: 0.70
+
+112. [JNJ] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+113. [PFE] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 9.00
+
+114. [PFE] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 40.32
+
+115. [PFE] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 6.95
+
+116. [PFE] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.24) antes de earnings_season
+   Valor: 0.24
+   Umbral: 0.70
+
+117. [PFE] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.24) antes de fomc_meetings
+   Valor: 0.24
+   Umbral: 0.70
+
+118. [PFE] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.24) antes de quad_witching
+   Valor: 0.24
+   Umbral: 0.70
+
+119. [PFE] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+120. [UNH] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 18.00
+
+121. [UNH] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 3.45
+
+122. [UNH] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.48) antes de earnings_season
+   Valor: 0.48
+   Umbral: 0.70
+
+123. [UNH] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.48) antes de fomc_meetings
+   Valor: 0.48
+   Umbral: 0.70
+
+124. [UNH] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.48) antes de quad_witching
+   Valor: 0.48
+   Umbral: 0.70
+
+125. [UNH] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+126. [MRK] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 9.00
+
+127. [MRK] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 5.10
+
+128. [MRK] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.48) antes de earnings_season
+   Valor: 0.48
+   Umbral: 0.70
+
+129. [MRK] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.48) antes de fomc_meetings
+   Valor: 0.48
+   Umbral: 0.70
+
+130. [MRK] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.48) antes de quad_witching
+   Valor: 0.48
+   Umbral: 0.70
+
+131. [MRK] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+132. [ABT] volume_analyzer
+   Tipo: CONCENTRACION_VOLUMEN
+   Descripción: N/A
+   Valor: 8.00
+
+133. [ABT] open_interest_analyzer
+   Tipo: OI_CONCENTRADO
+   Descripción: N/A
+   Valor: 49.33
+
+134. [ABT] open_interest_analyzer
+   Tipo: OI_ITM_OTM_ANOMALO
+   Descripción: N/A
+   Valor: 3.43
+
+135. [ABT] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.57) antes de earnings_season
+   Valor: 0.57
+   Umbral: 0.70
+
+136. [ABT] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.57) antes de fomc_meetings
+   Valor: 0.57
+   Umbral: 0.70
+
+137. [ABT] events_analyzer
+   Tipo: VOLUMEN_OFENSIVO_PRE_EVENTO
+   Descripción: Put/Call ratio bajo (0.57) antes de quad_witching
+   Valor: 0.57
+   Umbral: 0.70
+
+138. [ABT] events_analyzer
+   Tipo: MÚLTIPLES_EVENTOS
+   Descripción: Múltiples eventos próximos: 4 eventos en próximos 90 días
+   Valor: 4.00
+
+================================================================================
+TOTAL ALERTAS: 141
+================================================================================
